@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\TestCode\LikeSinaSportProgress-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_9d7c84b28ceeb3d74ec1d908ea52663bbdbc259a.jar" />
+    </item>
+    <item
+        jar="D:\TestCode\LikeSinaSportProgress-master\app\build\intermediates\exploded-aar\LikeSinaSportProgress-master\ratioprogresslibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e4337c2b8a142a5745d51f1fdf78ef53aca6bd15">
+        <dex dex="D:\TestCode\LikeSinaSportProgress-master\app\build\intermediates\pre-dexed\debug\LikeSinaSportProgress-master-ratioprogresslibrary-unspecified_62157598914c509d5f6ea0c794f0f21c833afc28.jar" />
+    </item>
+    <item
+        jar="D:\TestCode\LikeSinaSportProgress-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\TestCode\LikeSinaSportProgress-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_98fe45f405bbb6f4aa1635d67fd8a43fd2e94727.jar" />
+    </item>
+    <item
+        jar="D:\TestCode\LikeSinaSportProgress-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="D:\TestCode\LikeSinaSportProgress-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_19f96eacaf315c707d5da5b817e8e29e84bceed2.jar" />
+    </item>
+    <item
+        jar="D:\TestCode\LikeSinaSportProgress-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="D:\TestCode\LikeSinaSportProgress-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_d00ec04cb963f1967da503a01c551f13c8d6e90d.jar" />
+    </item>
+    <item
+        jar="D:\TestCode\LikeSinaSportProgress-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\TestCode\LikeSinaSportProgress-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_bf92c015952ac97f520608948e14e01d30fb67d4.jar" />
+    </item>
+    <item
+        jar="D:\TestCode\LikeSinaSportProgress-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="D:\TestCode\LikeSinaSportProgress-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_d47a225dc939e9ea63b5efb342f6b440b9b29aa7.jar" />
+    </item>
+
+</items>
